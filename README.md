@@ -1,6 +1,6 @@
 # pytorch-gpu-speed
 
-This repository report the speed of Pytorch according to the pytorch version, gpu types, cuda version, etc. The code refers to the [this issue](https://github.com/pytorch/pytorch/issues/47039). More data is weclome!!!
+This repository reports the speed of Pytorch according to the pytorch version, gpu types, cuda version, etc. The code refers to [this issue](https://github.com/pytorch/pytorch/issues/47039). More data is weclome!!!
 
 |package name| gpu type| pytorch version |  conv1d or conv2d | benchmark | result(ms/iter) |
 |-----------|-----------|-----------|-----------|-----------|-----------|
