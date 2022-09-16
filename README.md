@@ -20,6 +20,10 @@ This repository reports the speed of Pytorch according to the pytorch version, g
 ||||conv1d|True|0.421|
 ||||conv2d|False|1.465|
 ||||conv2d|True|1.433|
+||NVIDIA A100-PCIE-40GB||conv1d|False|0.463|
+||||conv1d|True|0.464|
+||||conv2d|False|1.547|
+||||conv2d|True|0.990|
 |py3.6_cuda9.2.148_cudnn7.6.3_0| GTX 1080| 1.5.0|  conv1d| False | 0.313|
 ||||conv1d|True|0.318|
 ||||conv2d|False|3.104|
